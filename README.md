@@ -1,4 +1,4 @@
-# library-management-system
+# Library Management System
 In this project I would like to develop a web based library management system that can suit for any sort of clients including universities, colleges and schools. I have reviewed different library management systems and am interested to develop one using PHP and MYSQL database and improve the scope of library management system to a generalized level. Following are the key aims and objectives identified in this project.  We are going to cover below functionalities in projects:  
 
 Student/User Panel: 
